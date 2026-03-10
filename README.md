@@ -75,10 +75,10 @@
 ## 🚀 Featured Projects
 
 🛒 **E-Commerce Admin Dashboard (Laravel)**  
-🔗 https://github.com/HassanMahmedAshour/project1
+🔗 https://github.com/HassanMahmedAshour/intro.git
 
 🧾 **REST API for E-Commerce System**  
-🔗 https://github.com/HassanMahmedAshour/project2
+🔗 https://github.com/HassanMahmedAshour/coding_project13.git
 
 ---
 
